@@ -1,4 +1,4 @@
-# Project Title
+# Solidity Project
 
 The "MyToken" smart contract is a fundamental example of a cryptocurrency token in Solidity. It showcases the essential features of token creation, including minting to increase the total supply and user balances, and burning to reduce the total supply while maintaining balance integrity. This contract is an excellent starting point for those exploring token development in Solidity.
 
